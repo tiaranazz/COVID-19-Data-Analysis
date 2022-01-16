@@ -1,2 +1,6 @@
 # COVID-19-Data-Analysis
-A ata analytics project on covid-19 data (economy, statu, responses and air traffic) impact on society using Tableau, Microsoft Excel and SQL
+A data analytics project on covid-19 data (economy, statu, responses and air traffic) impact on society using Tableau, Microsoft Excel and SQL
+
+1. Download Tableau & Microsoft Excel software
+2. Import the .wtb file and all .xlsx file
+3. Open dashboard to view the analysis on each topic area
